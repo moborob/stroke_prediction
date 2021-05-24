@@ -5,4 +5,4 @@ Project includes data cleaning(minimal), data visualization, and preprocessing t
 
 Repository includes jupyter notebook, dataset, and power point slides used for presentation
 
-Dataset acquired from [Stroke Prediction Dataset] (https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) on Kaggle
+Dataset acquired from [Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) on Kaggle
